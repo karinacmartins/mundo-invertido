@@ -1,13 +1,10 @@
-# Mundo Invertido - Jogo Interativo
-
 <p align="center">
     <img width="300" src="https://micheleambrosio.github.io/semana-frontend-mundo-invertido/assets/images/banner/logo.svg">
 </p>
 
+# Mundo Invertido 
+
 Bem-vindo ao projeto "Mundo Invertido"! Esta versão foi desenvolvida durante o Bootcamp da DIO e inclui um mini jogo interativo como parte do aprendizado.
-
-Uma jornada para quem não tem medo do desconhecido. O caminho para o Mundo Invertido é incerto, repleto de obstáculos e perigos. Porém, a recompensa é grande: salvar Hawkings e o mundo todo das garras de Vecna. Você está preparado(a)? 
-
 
 ## Índice
 
@@ -16,7 +13,6 @@ Uma jornada para quem não tem medo do desconhecido. O caminho para o Mundo Inve
 - Como Utilizar
 - Tecnologias Utilizadas
 - Funcionalidades
-- Funcionalidades Futuras
 - Contribuições
 - Contato
 - Observações
@@ -33,7 +29,7 @@ O "Mundo Invertido" é uma aplicação simples, mas divertida, que remete ao uni
 ## 🕹️ Como Utilizar
 
 1. **Acessar a Página**:
-   - Acesse a aplicação hospedada clicando [aqui](https://projeto.vercel.app).
+   - Acesse a aplicação hospedada clicando [aqui](https://mundo-invertido-delta.vercel.app/).
    - Ou abra o arquivo `index.html` localmente no navegador para visualização offline.
 
 2. **Jogar o Mini Jogo**:
@@ -54,8 +50,8 @@ O "Mundo Invertido" é uma aplicação simples, mas divertida, que remete ao uni
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 
 - **HTML5**: Para a estruturação do conteúdo.
-- **CSS3**: Para estilização e design responsivo.
-- **JavaScript**: Para implementar a lógica do jogo, interação com o usuário e manipulação do DOM.
+- **CSS3**: Para estilização e design.
+- **JavaScript**: Para implementar a lógica, interação com o usuário.
 
 
 ## ⚙️ Funcionalidades
@@ -65,12 +61,6 @@ O "Mundo Invertido" é uma aplicação simples, mas divertida, que remete ao uni
 - **Painel de pontos**: A pontuação do jogador é exibida e atualizada à medida que ele acerta o Demogorgon.
 - **Modal interativo**: O modal contém o jogo e pode ser aberto ou fechado conforme a interação do usuário.
 - **Reinício do jogo**: Ao final do jogo, o usuário pode escolher reiniciar a partida ou sair do jogo.
-
-## 🌟 Funcionalidades Futuras
-
-- Adicionar mais personagens ou obstáculos no jogo para aumentar a dificuldade.
-- Implementar níveis de dificuldade, onde o tempo de aparição do Demogorgon se torna mais curto conforme o nível aumenta.
-- Criar uma tela de resultado com ranking para comparar pontuações de diferentes jogadores.
 
 ## 🤝 Contribuições
 
